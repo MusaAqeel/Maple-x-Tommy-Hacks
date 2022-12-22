@@ -4,7 +4,7 @@ import Image from "next/image";
 
 import Segment from "./Segment/Segment";
 import City from "/public/static/City/City.svg";
-import Stars from "./Stars/Stars";
+
 
 const About = () => {
   return (
@@ -38,7 +38,7 @@ const About = () => {
             </span>
           }
         />
-        <Stars />
+
         <CityContainer>
           <Image src={City} layout="responsive" priority alt="City Skyline" />
         </CityContainer>
