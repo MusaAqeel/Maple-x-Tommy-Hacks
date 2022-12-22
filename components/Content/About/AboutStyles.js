@@ -7,7 +7,7 @@ export const Wrapper = styled.section`
   flex: 1;
   color: white;
 `;
-
+// skyline color
 export const Cover = styled.article`
   padding-top: 60px;
   background: #171c28;
@@ -18,11 +18,10 @@ export const Cover = styled.article`
   z-index: 3;
   background: radial-gradient(
     85.44% 78.29% at 50% 96.02%,
-    #808080 0%,
-    #808080 100%
+    #404040 0%,
+    #404040 100%
     );
     `;
-    
 export const Link = styled.a`
   font-family: Proxima Nova;
   font-style: normal;
