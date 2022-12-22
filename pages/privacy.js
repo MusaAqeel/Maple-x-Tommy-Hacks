@@ -68,7 +68,7 @@ const privacy = () => {
         <LogoContainer>
           <Logo />
         </LogoContainer>
-        <Title>UofTHacks IX</Title>
+        <Title>Maple X Tommy Hacks</Title>
       </HeaderContainer>
       <Header1>Privacy Policy</Header1>
       <p>Last updated: January 12, 2022</p>
