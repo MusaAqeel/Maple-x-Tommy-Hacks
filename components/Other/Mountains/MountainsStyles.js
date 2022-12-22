@@ -47,17 +47,17 @@ export const Layer1Cover = styled.section`
   right: 0;
   min-height: 100vh;
   z-index: 3;
-  background-color: #7fb9d3;
+  background-color: #FFFFFF;
 `;
 export const Layer2Cover = styled(Layer1Cover)`
   top: 96%;
-  background-color: #4f91b3;
+  background-color: #FFFFFF;
 `;
 export const Layer3Cover = styled(Layer1Cover)`
   top: 98%;
-  background-color: #182e47;
+  background-color: #FFFFFF;
 `;
 export const Layer4Cover = styled(Layer1Cover)`
   top: 99%;
-  background-color: #171c28;
+  background-color: #FFFFFF;
 `;
