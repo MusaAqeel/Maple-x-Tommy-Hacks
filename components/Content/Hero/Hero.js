@@ -23,11 +23,11 @@ const Hero = () => {
         </SubTitle>
         <Date>December 23rd 2022 - January 7th 2023</Date>
         <ApplyBtn
-          href=""
+          href="#about"
           rel="noopener"
           target="_blank"
         >
-                   <NavItem href="#about">About</NavItem>
+          Get Hacking!
         </ApplyBtn>
         <SponsorLink href="">
           {/* Join Now */}
