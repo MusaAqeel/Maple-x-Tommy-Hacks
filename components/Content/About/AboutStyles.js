@@ -18,11 +18,11 @@ export const Cover = styled.article`
   z-index: 3;
   background: radial-gradient(
     85.44% 78.29% at 50% 96.02%,
-    #1e2639 0%,
-    #171c28 100%
-  );
-`;
-
+    #808080 0%,
+    #808080 100%
+    );
+    `;
+    
 export const Link = styled.a`
   font-family: Proxima Nova;
   font-style: normal;
