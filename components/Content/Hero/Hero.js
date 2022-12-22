@@ -24,8 +24,8 @@ const Hero = () => {
         <Date>December 23rd 2022 - January 7th 2023</Date>
         <ApplyBtn
           href="#about"
-          rel="noopener"
-          target="_blank"
+          rel=""
+          target=""
         >
           Get Hacking!
         </ApplyBtn>
