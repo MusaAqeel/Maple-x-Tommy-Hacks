@@ -67,7 +67,7 @@ const Footer = () => {
       <Cover>
         <Content>
           <First_Container>
-            <span>Made with 💗 by the UofTHacks IX Team</span>
+            <span>Made by: Musa Aqeel, Vincent Tran and Sibel Jahangirli</span>
             <ul>
               <li>
                 <Link href="/privacy" target="_blank">
@@ -76,20 +76,20 @@ const Footer = () => {
               </li>
               <li>
                 <a
-                  href="https://static.mlh.io/docs/mlh-code-of-conduct.pdf"
+                  href="https://google.com"
                   target="_blank"
                   rel="noreferrer"
                 >
-                  MLH Code of Conduct
+                  Link
                 </a>
               </li>
               <li>
                 <a
-                  href="https://drive.google.com/file/d/1IWtrHG71oZBrUntRCzP6kLvY-gEiFqPQ/view?usp=sharing"
+                  href="https://drive.google.com/"
                   target="_blank"
                   rel="noreferrer"
                 >
-                  Sponsorship Package
+                  Hackathon Package
                 </a>
               </li>
               <li>
@@ -103,21 +103,15 @@ const Footer = () => {
               </li>
               <li>
                 <a
-                  href="https://github.com/UofTHacks-Official"
+                  href="https://github.com/MusaAqeel"
                   target="_blank"
                   rel="noreferrer"
                 >
-                  GitHub Page
+                  GitHub
                 </a>
               </li>
               <li>
-                <a
-                  href="https://viii.uofthacks.com/"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  2021 Site
-                </a>
+                
               </li>
             </ul>
           </First_Container>
@@ -126,7 +120,7 @@ const Footer = () => {
               <ul>
                 <li>
                   <a
-                    href="https://www.instagram.com/uofthacks/"
+                    href="https://www.instagram.com/tommyprogramming"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -137,81 +131,24 @@ const Footer = () => {
                 </li>
                 <li>
                   <a
-                    href="https://www.twitter.com/uofthacks/"
+                    href="https://www.instagram.com/maplecsclub"
                     target="_blank"
                     rel="noreferrer"
                   >
                     <IconContainer>
-                      <TwitterIcon />
+                      <InstagramIcon />
                     </IconContainer>
                   </a>
                 </li>
                 <li>
-                  <a
-                    href="https://www.facebook.com/uofthacks"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    <IconContainer>
-                      <FacebookIcon />
-                    </IconContainer>
-                  </a>
+
                 </li>
               </ul>
             </Socials>
           </Second_Container>
           <Third_Container>
-            <MailingContainer>
-              <form onSubmit={(e) => formSubmit(e)} id="unsubscribeForm">
-                <label htmlFor="email">Sign up for our Mailing List!</label>
-                <div>
-                  <input
-                    onChange={(e) => setEmail(e.target.value)}
-                    id="emailInput"
-                    type="email"
-                    name="email"
-                    placeholder="email address"
-                    required
-                    style={{
-                      borderColor: submitStatus[2],
-                    }}
-                    disabled={submitStatus[0]}
-                  />
-                  <input
-                    type="submit"
-                    name="submit"
-                    style={{
-                      backgroundColor: submitStatus[2],
-                      borderColor: submitStatus[3],
-                      cursor: submitStatus[4],
-                    }}
-                    onMouseOver={() =>
-                      submitStatus[0]
-                        ? null
-                        : setSubmitStatus([
-                            submitStatus[0],
-                            submitStatus[1],
-                            "#346497",
-                            submitStatus[3],
-                          ])
-                    }
-                    onMouseLeave={() =>
-                      submitStatus[0]
-                        ? null
-                        : setSubmitStatus([
-                            submitStatus[0],
-                            submitStatus[1],
-                            "#4582c3",
-                            submitStatus[3],
-                          ])
-                    }
-                    value={submitStatus[1]}
-                    disabled={submitStatus[0]}
-                  />
-                </div>
-              </form>
-            </MailingContainer>
-            <CompanyContainer>UofTHacks</CompanyContainer>
+          
+            <CompanyContainer>Maple X Tommy Hacks</CompanyContainer>
           </Third_Container>
         </Content>
       </Cover>
