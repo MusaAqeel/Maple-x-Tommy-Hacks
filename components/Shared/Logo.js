@@ -1,4 +1,4 @@
-import MooseLogo from "/public/static/UI/Logo.svg";
+import HacksLogo from "/public/static/UI/Logo.png";
 import Image from "next/image";
 
 // TO EDIT SIZE OF LOGO, DO NOT EDIT IMAGE DIMENSIONS DIRECTLY, EDIT CONTAINER WIDTH WRAPPED AROUND
@@ -7,9 +7,9 @@ const Logo = (props) => {
   return (
     <>
       <Image
-        src={MooseLogo}
+        src={HacksLogo}
         layout="intrinsic"
-        alt="UofTHacks IX Logo"
+        alt="Hacks Logo"
         priority
       />
     </>
