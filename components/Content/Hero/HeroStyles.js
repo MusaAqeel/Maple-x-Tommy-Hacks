@@ -19,7 +19,7 @@ export const Content = styled.section`
   z-index: 4;
 `;
 export const LogoContainer = styled.div`
-  max-width: 16.56rem;
+  max-width: 36.56rem;
   z-index: 4;
 `;
 export const Title = styled.h1`
