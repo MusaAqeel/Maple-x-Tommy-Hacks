@@ -54,7 +54,7 @@ export const Date = styled.p`
 export const ApplyBtn = styled.a`
   font-family: "Proxima Nova";
   font-weight: bold !important;
-  background-color: #4582c3;
+  background-color: #C5323B;
   text-decoration: none;
   border: none;
   border-radius: 5px;
@@ -68,7 +68,7 @@ export const ApplyBtn = styled.a`
   &:hover {
     transition: all 0.2s;
     cursor: pointer;
-    background-color: #2d65a0;
+    background-color: #242424;
   }
 `;
 export const SponsorLink = styled.a`
