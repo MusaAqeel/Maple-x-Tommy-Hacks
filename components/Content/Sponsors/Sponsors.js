@@ -47,7 +47,7 @@ const Sponsors = () => {
                 src={Titan}
                 layout="fill"
                 objectFit="contain"
-                alt="Replit"
+                alt="Titan"
                 priority
               />
             </GoldSponsor>
