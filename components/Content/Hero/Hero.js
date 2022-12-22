@@ -30,7 +30,7 @@ const Hero = () => {
         >
           Get Hacking!
         </ApplyBtn>
-        <SponsorLink href="https://www.google.ca/">
+        <SponsorLink href="">
           {/* Join Now */}
         </SponsorLink>
       </Content>

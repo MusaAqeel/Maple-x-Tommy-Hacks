@@ -13,16 +13,13 @@ const About = () => {
         <Segment
           title={"About UofTHacks"}
           paragraph={`
-            For the 9th consecutive year, Canada’s first student-run hackathon,
-            UofTHacks, will bring together 500 innovators, technology enthusiasts,
-            designers, and entrepreneurs in a thrilling competition where they
-            will embark on a journey to build unique and impactful projects.
+          Welcome to Maple X Tommy Hacks, a global hackathon collaboration between Maple High School and Tommy Douglas Secondary School! This event is open to all students across the globe and brings together a diverse group of individuals to work on projects that address real-world problems and showcase their skills in technology and innovation.
           `}
         />
         <Segment
           title={"What is a hackathon?"}
           paragraph={
-            "An event, typically lasting several days, in which a large number of people meet to engage in collaborative computer programming. We look past this traditional definition of a hackathon and take it to new heights. UofTHacks is the University of Toronto's annual hackathon. At UofTHacks, we bring people together to make new friends, learn new things, and bring new ideas to life."
+            "An event, typically lasting several days, in which a large number of people meet to engage in collaborative computer programming.."
           }
         />
         <Segment
@@ -30,10 +27,10 @@ const About = () => {
           paragraph={
             <span>
               We&apos;re currently in the process of finding sponsors to make
-              UofTHacks 2022 even greater than before. If you are interested in
-              sponsoring for UofTHacks IX, please email us at{" "}
-              <Link href="mailto:sponsors@uofthacks.com">
-                sponsors@uofthacks.com
+              Maple X Tommy Hacks even greater than before. If you are interested in
+              sponsoring for Maple X Tommy Hacks, please email us at{" "}
+              <Link href="mailto:MapleXTommy@gmail.com">
+                MapleXTommy@gmail.com
               </Link>
             </span>
           }
