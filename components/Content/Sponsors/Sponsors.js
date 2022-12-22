@@ -11,6 +11,8 @@ import {
 } from "./SponsorsStyles";
 import Image from "next/image";
 import Replit from "/public/static/Sponsors/Replit.svg";
+import Titan from "/public/static/Sponsors/Titan.jpeg";
+import Maple from "/public/static/Sponsors/Maple.jpg";
 
 import WolframLanguage from "/public/static/Sponsors/WolframLanguage.png";
 
@@ -29,6 +31,34 @@ const Sponsors = () => {
             >
               <Image
                 src={Replit}
+                layout="fill"
+                objectFit="contain"
+                alt="Replit"
+                priority
+              />
+            </GoldSponsor>
+
+            <GoldSponsor
+              href="https://Titan.com/"
+              rel="noopener"
+              target="_blank"
+            >
+              <Image
+                src={Titan}
+                layout="fill"
+                objectFit="contain"
+                alt="Replit"
+                priority
+              />
+            </GoldSponsor>
+
+            <GoldSponsor
+              href="https://Maple.com/"
+              rel="noopener"
+              target="_blank"
+            >
+              <Image
+                src={Maple}
                 layout="fill"
                 objectFit="contain"
                 alt="Replit"
