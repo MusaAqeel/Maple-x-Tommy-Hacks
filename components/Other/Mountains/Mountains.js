@@ -21,6 +21,9 @@ import Art4 from "/public/static/Mountains/4.svg";
 const Mountains = () => {
   return (
     <>
+      <Layer0>
+        <Image src={Art0} layout="responsive" alt="Mountain-Layer0" priority />
+      </Layer0>
       <Layer1>
         <Image src={Art1} layout="responsive" alt="Mountain-Layer1" priority />
         <Layer1Cover />

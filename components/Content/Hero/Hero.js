@@ -20,20 +20,20 @@ const Hero = () => {
         <LogoContainer>
           <Logo />
         </LogoContainer>
-        <Title>UofTHacks IX</Title>
+        <Title>Maple X Tommy Hacks</Title>
         <SubTitle>
           Dream <Star>✦</Star> Build <Star>✦</Star> Inspire
         </SubTitle>
-        <Date>February 4th-6th, 2022</Date>
+        <Date>December 23rd 2022 - January 7th 2023</Date>
         <ApplyBtn
           href=""
           rel="noopener"
           target="_blank"
         >
-          Applications are now closed
+          Get Hacking!
         </ApplyBtn>
         <SponsorLink href="">
-          See you next year!
+          Join Now
         </SponsorLink>
       </Content>
     </Wrapper>
