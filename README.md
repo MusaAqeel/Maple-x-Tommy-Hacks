@@ -1,7 +1,7 @@
 <div align="center">
   </>
-  <h1>Maple x Tommy Hacks IX</h1>
-  <h4>💭 Dream  •  🔨 Build  •  ✨ Inspire</h4>
+  <h1>Maple x Tommy Hacks</h1>
+
   <a href="Website/"><p>Website</p></a>
 </div>
 
