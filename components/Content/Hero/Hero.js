@@ -18,7 +18,7 @@ const Hero = () => {
         <LogoContainer>
           <Logo />
         </LogoContainer>
-        <Title>Maple X Tommy Hacks</Title>
+        {/* <Title>Maple X Tommy Hacks</Title> */}
         <SubTitle>
           {/* Dream <Star>✦</Star> Build <Star>✦</Star> Inspire */}
         </SubTitle>
