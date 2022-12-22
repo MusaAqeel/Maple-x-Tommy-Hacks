@@ -1,5 +1,4 @@
 import Logo from "../../Shared/Logo";
-import Divider from "../../Shared/Divider/Divider";
 import {
   Wrapper,
   Content,
