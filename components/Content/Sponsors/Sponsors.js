@@ -11,8 +11,8 @@ import {
 } from "./SponsorsStyles";
 import Image from "next/image";
 import Replit from "/public/static/Sponsors/Replit.svg";
-import Titan from "/public/static/Sponsors/Titan.jpeg";
-import Maple from "/public/static/Sponsors/Maple.jpg";
+import Titan from "/public/static/Sponsors/Titan.png";
+import Maple from "/public/static/Sponsors/Maple.png";
 
 import WolframLanguage from "/public/static/Sponsors/WolframLanguage.png";
 
