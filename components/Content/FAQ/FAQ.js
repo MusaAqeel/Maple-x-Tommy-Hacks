@@ -10,23 +10,23 @@ const FAQ = (props) => {
   ));
 
   // If you want to add a hyperlink, you need to manually add a card component below.
-  // const manualCards = (
-  //   <>
-  //     <Card
-  //       title="I still have a question..."
-  //       paragraph={
-  //         <span>
-  //           We’d be happy to help! Send the inquiry over to
-  //           <Link href="mailto:mxthacks@gmail.com">
-  //             {" "}
-  //             mxthacks@gmail.com
-  //           </Link>{" "}
-  //           and we’ll get back to you as soon as possible.
-  //         </span>
-  //       }
-  //     />
-  //   </>
-  // );
+  const manualCards = (
+    <>
+      <Card
+        title="I still have a question..."
+        paragraph={
+          <span>
+            We’d be happy to help! Send the inquiry over to
+            <Link href="mailto:mxthacks@gmail.com">
+              {" "}
+              mxthacks@gmail.com
+            </Link>{" "}
+            and we’ll get back to you as soon as possible.
+          </span>
+        }
+      />
+    </>
+  );
 
   return (
     <Wrapper>
