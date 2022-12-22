@@ -76,7 +76,7 @@ export const SponsorLink = styled.a`
   font-weight: normal !important;
   margin: 5px;
   font-size: 1.2rem;
-  color: #4582c3;
+  color: #242424;
   text-decoration: none;
   z-index: 4;
   transition: all 0.2s;
