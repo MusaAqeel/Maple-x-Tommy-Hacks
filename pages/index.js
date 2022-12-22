@@ -96,7 +96,7 @@ import Footer from "../components/Layout/Footer/Footer";
 
 const Parallax = styled.section`
   position: absolute;
-  background: linear-gradient(180deg, #f9f9f9 0%, #a4e0ff 100%);
+  background: linear-gradient(180deg, #FFFFFF 0%, #FFFFFF 100%);
   perspective: 100px;
   left: 0;
   bottom: 0;
