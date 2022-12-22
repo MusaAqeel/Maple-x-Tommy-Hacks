@@ -30,12 +30,12 @@ export const Link = styled.a`
   line-height: 22px;
   text-decoration: none;
 
-  color: #a0c3d2;
+  color: #FFFFF;
   transition: color 0.2s;
 
   &:hover {
     transition: color 0.2s;
-    color: #265587;
+    color: #FFFFF;
   }
 `;
 export const CityContainer = styled.div`
