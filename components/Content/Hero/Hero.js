@@ -9,8 +9,6 @@ import {
   Date,
   ApplyBtn,
   SponsorLink,
-  Star,
-  MentorLink,
 } from "./HeroStyles";
 
 const Hero = () => {
@@ -33,7 +31,7 @@ const Hero = () => {
           Get Hacking!
         </ApplyBtn>
         <SponsorLink href="">
-          Join Now
+          {/* Join Now */}
         </SponsorLink>
       </Content>
     </Wrapper>
