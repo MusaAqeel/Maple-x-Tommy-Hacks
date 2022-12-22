@@ -27,7 +27,7 @@ const Hero = () => {
           rel="noopener"
           target="_blank"
         >
-          Get Hacking!
+                   <NavItem href="#about">About</NavItem>
         </ApplyBtn>
         <SponsorLink href="">
           {/* Join Now */}
