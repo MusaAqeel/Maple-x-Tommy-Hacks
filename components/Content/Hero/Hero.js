@@ -1,5 +1,5 @@
 import Logo from "../../Shared/Logo";
-
+import Divider from "../../Shared/Divider/Divider";
 import {
   Wrapper,
   Content,
@@ -34,7 +34,10 @@ const Hero = () => {
           {/* Join Now */}
         </SponsorLink>
       </Content>
+      <Divider />
     </Wrapper>
+
+    
   );
 };
 export default Hero;
