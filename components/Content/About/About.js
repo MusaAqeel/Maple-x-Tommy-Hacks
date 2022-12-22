@@ -11,7 +11,7 @@ const About = () => {
     <Wrapper>
       <Cover id="about">
         <Segment
-          title={"About UofTHacks"}
+          title={"About Maple X Tommy Hacks"}
           paragraph={`
           Welcome to Maple X Tommy Hacks, a global hackathon collaboration between Maple High School and Tommy Douglas Secondary School! This event is open to all students across the globe and brings together a diverse group of individuals to work on projects that address real-world problems and showcase their skills in technology and innovation.
           `}
