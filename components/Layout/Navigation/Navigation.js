@@ -29,9 +29,7 @@ const Navigation = (props) => {
         <li>
           <NavItem href="#faq">FAQ</NavItem>
         </li>
-        <li>
-          <NavItem href="mailto:contact@uofthacks.com">Contact</NavItem>
-        </li>
+
       </NavLinks>
 
     </Container>

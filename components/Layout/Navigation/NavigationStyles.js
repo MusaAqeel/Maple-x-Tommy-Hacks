@@ -9,6 +9,8 @@ export const Container = styled.nav`
   justify-content: flex-start;
   align-items: left;
   width: 100%;
+  border-radius: 15px;
+  overflow: hidden;
 `;
 
 export const NavLinks = styled.ul`
@@ -33,6 +35,7 @@ export const NavItem = styled.a`
     transition: all 0.2s;
     cursor: pointer;
     color: #2d65a0;
+    background-color: #eee;
   }
   @media only screen and (max-width: 860px) {
     display: none;

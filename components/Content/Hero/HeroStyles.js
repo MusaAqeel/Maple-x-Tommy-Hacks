@@ -29,6 +29,8 @@ export const Title = styled.h1`
   color: #242424;
   margin: 0;
   z-index: 4;
+  text-align: center;
+
 `;
 export const Star = styled.span`
   font-size: 1.5rem;
