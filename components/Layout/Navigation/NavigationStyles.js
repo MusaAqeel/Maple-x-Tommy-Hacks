@@ -24,12 +24,13 @@ export const LogoContainer = styled.div`
   width: 76px;
 `;
 
-export const NavItem = styled.a`
+export const NavItem = styled.button`
   display: block;
   font-family: "Proxima Nova";
   color: #4582c3;
-  text-decoration: none;
   font-size: 1.2rem;
+  border: none;
+  outline: none;
 
   &:hover {
     transition: all 0.2s;
