@@ -1,5 +1,3 @@
-import styled from "styled-components";
-
 export const Container = styled.nav`
   position: fixed;
   display: flex;
@@ -9,8 +7,6 @@ export const Container = styled.nav`
   justify-content: flex-start;
   align-items: left;
   width: 100%;
-  border-radius: 15px;
-  overflow: hidden;
 `;
 
 export const NavLinks = styled.ul`
@@ -24,19 +20,17 @@ export const LogoContainer = styled.div`
   width: 76px;
 `;
 
-export const NavItem = styled.button`
+export const NavItem = styled.a`
   display: block;
   font-family: "Proxima Nova";
   color: #4582c3;
+  text-decoration: none;
   font-size: 1.2rem;
-  border: none;
-  outline: none;
 
   &:hover {
     transition: all 0.2s;
     cursor: pointer;
     color: #2d65a0;
-    background-color: #eee;
   }
   @media only screen and (max-width: 860px) {
     display: none;
