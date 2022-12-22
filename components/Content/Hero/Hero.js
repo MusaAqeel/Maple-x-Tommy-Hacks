@@ -22,7 +22,7 @@ const Hero = () => {
         </LogoContainer>
         <Title>Maple X Tommy Hacks</Title>
         <SubTitle>
-          Dream <Star>✦</Star> Build <Star>✦</Star> Inspire
+          {/* Dream <Star>✦</Star> Build <Star>✦</Star> Inspire */}
         </SubTitle>
         <Date>December 23rd 2022 - January 7th 2023</Date>
         <ApplyBtn
