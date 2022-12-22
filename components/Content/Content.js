@@ -9,6 +9,7 @@ const Content = () => {
   return (
     <Wrapper>
       <Hero />
+      <Divider />
       <Cover>
         <About />
         <Sponsors />

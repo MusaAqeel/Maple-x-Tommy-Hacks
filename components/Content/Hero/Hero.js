@@ -34,7 +34,6 @@ const Hero = () => {
           {/* Join Now */}
         </SponsorLink>
       </Content>
-      <Divider />
     </Wrapper>
 
     
