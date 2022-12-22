@@ -6,7 +6,7 @@ import {
   LogoContainer
 } from "./NavigationStyles";
 import Logo from "../../Shared/Logo";
-import Banner from "./Banner";
+
 
 const Navigation = (props) => {
 
@@ -33,7 +33,7 @@ const Navigation = (props) => {
           <NavItem href="mailto:contact@uofthacks.com">Contact</NavItem>
         </li>
       </NavLinks>
-        <Banner />
+
     </Container>
   );
 };
