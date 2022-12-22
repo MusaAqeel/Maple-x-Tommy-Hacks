@@ -61,11 +61,10 @@ const Sponsors = () => {
                 src={Maple}
                 layout="fill"
                 objectFit="contain"
-                alt="Replit"
+                alt="Maple"
                 priority
               />
             </GoldSponsor>
-           
           </Tier>
         </SponsorGrid>
       </div>
