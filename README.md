@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="/public/static/UI/Logo.svg"/>
-  <h1>UofTHacks IX</h1>
+  </>
+  <h1>Maple x Tommy Hacks IX</h1>
   <h4>💭 Dream  •  🔨 Build  •  ✨ Inspire</h4>
-  <a href="https://www.uofthacks.com/"><p>www.uofthacks.com</p></a>
+  <a href="Website/"><p>Website</p></a>
 </div>
 
 # Contents
