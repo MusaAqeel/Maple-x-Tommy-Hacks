@@ -71,7 +71,7 @@ const Footer = () => {
             <ul>
               <li>
                 <Link href="/privacy" target="_blank">
-                  Privacy Policy
+                  Link2
                 </Link>
               </li>
               <li>
@@ -94,11 +94,11 @@ const Footer = () => {
               </li>
               <li>
                 <a
-                  href="https://www.instagram.com/uofthacks/"
+                  href="https://www.instagram.com/tommyprogramming/"
                   target="_blank"
                   rel="noreferrer"
                 >
-                  Meet Our Team
+                  Contact Us
                 </a>
               </li>
               <li>
