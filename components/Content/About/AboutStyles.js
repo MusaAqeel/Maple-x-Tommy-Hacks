@@ -10,7 +10,7 @@ export const Wrapper = styled.section`
 // skyline color
 export const Cover = styled.article`
   padding-top: 60px;
-  background: linear-gradient(rgb(163, 161, 162) 0%, rgb(255, 255, 255) 100%);
+  background: #FFFFFF;
   display: block;
   position: relative;
   top: 99%;
