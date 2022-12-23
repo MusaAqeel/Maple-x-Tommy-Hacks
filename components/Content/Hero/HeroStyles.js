@@ -76,13 +76,13 @@ export const SponsorLink = styled.a`
   font-weight: normal !important;
   margin: 5px;
   font-size: 1.2rem;
-  color: #242424;
+  color: #B83236;
   text-decoration: none;
   z-index: 4;
   transition: all 0.2s;
   &:hover {
     transition: all 0.2s;
-    color: #2d65a0;
+    color: #616060;
   }
 `;
 
