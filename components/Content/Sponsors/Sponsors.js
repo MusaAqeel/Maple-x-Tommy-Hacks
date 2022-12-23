@@ -14,6 +14,7 @@ import Image from "next/image";
 import Replit from "/public/static/Sponsors/Replit.svg";
 import Titan from "/public/static/Sponsors/titan.png";
 import Maple from "/public/static/Sponsors/maple.png";
+import Echo3D from "/public/static/Sponsors/echo3d.png";
 
 import WolframLanguage from "/public/static/Sponsors/WolframLanguage.png";
 
@@ -39,6 +40,21 @@ const Sponsors = () => {
                 priority
               />
             </GoldSponsor>
+
+            <GoldSponsor
+            href="https://echo3d.com/"
+            rel="noopener"
+            target="_blank"
+          >
+            <Image
+              src={Echo3D}
+              layout="fill"
+              objectFit="contain"
+              alt="Echo 3D"
+              priority
+            />
+          </GoldSponsor>
+
 
             <SilverSponsor
               href="https://Titan.com/"
