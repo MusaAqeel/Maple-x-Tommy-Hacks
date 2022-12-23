@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const Container = styled.nav`
-  position: fixed;
+  position: fed;
   display: flex;
   flex-wrap: wrap;
   height: 60px;

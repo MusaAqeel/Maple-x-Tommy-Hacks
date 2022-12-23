@@ -171,7 +171,7 @@ const privacy = () => {
         </li>
         <li>
           <p>
-            <strong>Website</strong> refers to UofTHacks IX, accessible from{" "}
+            <strong>Website</strong> refers to UofTHacks , accessible from{" "}
             <Link
               href="https://www.uofthacks.com"
               rel="external nofollow noopener"
@@ -280,7 +280,7 @@ const privacy = () => {
         <li>
           <strong>Web Beacons.</strong> Certain sections of our Service and our
           emails may contain small electronic files known as web beacons (also
-          referred to as clear gifs, pixel tags, and single-pixel gifs) that
+          referred to as clear gifs, pel tags, and single-pel gifs) that
           permit the Company, for example, to count users who have visited those
           pages or opened an email and for other related website statistics (for
           example, recording the popularity of a certain section and verifying

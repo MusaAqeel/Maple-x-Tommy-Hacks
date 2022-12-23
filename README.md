@@ -25,8 +25,8 @@ This project requires [Node.js 16.13.1 LTS](https://nodejs.org/en/) and [npm](ht
 <h3 id="install-step1">Step 1. Cloning the Project</h3>
 
 ```
-git clone https://github.com/UofTHacks-Official/site-ix.git
-cd site-ix
+git clone https://github.com/UofTHacks-Official/site-.git
+cd site-
 ```
 
 <h3 id="install-step2">Step 2. Installing packages</h3>

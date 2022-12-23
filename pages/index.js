@@ -33,7 +33,7 @@ import Footer from "../components/Layout/Footer/Footer";
 //   return (
 //     <Wrapper>
 //       <Head>
-//         <title>Maple X Tommy Hacks IX</title>
+//         <title>Maple X Tommy Hacks </title>
 //         <meta charSet="UTF-8" />
 //         <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
 //         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -55,8 +55,8 @@ import Footer from "../components/Layout/Footer/Footer";
 //           href="/favicon-16x16.png"
 //         />
 //         <link rel="manifest" href="/site.webmanifest" />
-//         <title>Maple X Tommy Hacks IX</title>
-//         <meta name="title" content="Maple X Tommy Hacks IX" />
+//         <title>Maple X Tommy Hacks </title>
+//         <meta name="title" content="Maple X Tommy Hacks " />
 //         <meta
 //           name="description"
 //           content="Join 500+ hackers for a great weekend of learning, building, and networking at University of Toronto's largest annual hackathon 💻"
@@ -64,7 +64,7 @@ import Footer from "../components/Layout/Footer/Footer";
 
 //         <meta property="og:type" content="website" />
 //         <meta property="og:url" content="https://dev.Maple X Tommy Hacks.com/" />
-//         <meta property="og:title" content="Maple X Tommy Hacks IX" />
+//         <meta property="og:title" content="Maple X Tommy Hacks " />
 //         <meta
 //           property="og:description"
 //           content="Join 500+ hackers for a great weekend of learning, building, and networking at University of Toronto's largest annual hackathon 💻"
@@ -76,7 +76,7 @@ import Footer from "../components/Layout/Footer/Footer";
 
 //         <meta property="twitter:card" content="summary_large_image" />
 //         <meta property="twitter:url" content="https://dev.Maple X Tommy Hacks.com/" />
-//         <meta property="twitter:title" content="Maple X Tommy Hacks IX" />
+//         <meta property="twitter:title" content="Maple X Tommy Hacks " />
 //         <meta
 //           property="twitter:description"
 //           content="Join 500+ hackers for a great weekend of learning, building, and networking at University of Toronto's largest annual hackathon 💻"
@@ -148,7 +148,7 @@ const Home = () => {
           />
           <meta property="og:type" content="website" />
           <meta property="og:url" content="https://dev.TommyXMapleHacks.com/" />
-          <meta property="og:title" content="Maple X Tommy Hacks IX" />
+          <meta property="og:title" content="Maple X Tommy Hacks " />
           <meta
             property="og:description"
             content="Join 500+ hackers for a great weekend of learning, building, and networking at University of Toronto's largest annual hackathon 💻"
@@ -159,7 +159,7 @@ const Home = () => {
           />
           <meta property="twitter:card" content="summary_large_image" />
           <meta property="twitter:url" content="https://dev.TommyXMapleHacks.com/" />
-          <meta property="twitter:title" content="Maple X Tommy Hacks IX" />
+          <meta property="twitter:title" content="Maple X Tommy Hacks " />
           <meta
             property="twitter:description"
             content="Join 500+ hackers for a great weekend of learning, building, and networking at University of Toronto's largest annual hackathon 💻"
