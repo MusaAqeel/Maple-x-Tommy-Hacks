@@ -70,18 +70,18 @@ const Footer = () => {
             <span>Made with ❤️ by Musa Aqeel and Sibel Jahangirli</span>
             <ul>
               <li>
-                <Link href="/privacy" target="_blank">
+                {/* <Link href="/privacy" target="_blank">
                   Link2
-                </Link>
+                </Link> */}
               </li>
               <li>
-                <a
+                {/* <a
                   href="https://google.com"
                   target="_blank"
                   rel="noreferrer"
                 >
                   Link
-                </a>
+                </a> */}
               </li>
               <li>
                 <a
