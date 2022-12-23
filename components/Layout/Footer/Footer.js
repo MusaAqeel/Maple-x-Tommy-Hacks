@@ -65,77 +65,45 @@ const Footer = () => {
         </Shape>
       </DividerWrapper>
       <Cover>
-        <Content>
-          <First_Container>
-            <span>Made with ❤️ by Musa Aqeel and Sibel Jahangirli</span>
-            <ul>
-              <li>
-                {/* <Link href="/privacy" target="_blank">
-                  Link2
-                </Link> */}
-              </li>
-              <li>
-                {/* <a
-                  href="https://google.com"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  Link
-                </a> */}
-              </li>
-              <li>
-                <a
-                  href="https://drive.google.com/file/d/1IhsuhrWrBa16f8MH2ow4MMwT9pJNBFpj/view?usp=sharing"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  Hackathon Package
-                </a>
-              </li>
-              <li>
-                <a
-                  href="https://www.instagram.com/tommyprogramming/"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  Contact Us
-                </a>
-              </li>
-              <li>
-                <a
-                  href="https://github.com/MusaAqeel/Maple-x-Tommy-Hacks"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  GitHub
-                </a>
-              </li>
-              <li>
-                
-              </li>
-            </ul>
-          </First_Container>
-          <Second_Container>
-            <Socials>
-              <ul>
-                <li>
+  <Content>
+    <First_Container>
+      <span>Made with ❤️ by Musa Aqeel and Sibel Jahangirli</span>
+      <ul>
+        <li>
+          <a
+            href="https://drive.google.com/file/d/1IhsuhrWrBa16f8MH2ow4MMwT9pJNBFpj/view?usp=sharing"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Hackathon Package
+          </a>
+        </li>
+        <li>
+          <a
+            href="https://www.instagram.com/tommyprogramming/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Contact Us
+          </a>
+        </li>
+        <li>
+          <a
+            href="https://github.com/MusaAqeel/Maple-x-Tommy-Hacks"
+            target="_blank"
+            rel="noreferrer"
+          >
+            GitHub
+          </a>
+        </li>
+      </ul>
+    </First_Container>
+    <Third_Container>
+      <CompanyContainer>Maple X Tommy Hacks</CompanyContainer>
+    </Third_Container>
+  </Content>
+</Cover>
 
-                </li>
-                <li>
-
-                </li>
-                <li>
-
-                </li>
-              </ul>
-            </Socials>
-          </Second_Container>
-          <Third_Container>
-          
-            <CompanyContainer>Maple X Tommy Hacks</CompanyContainer>
-          </Third_Container>
-        </Content>
-      </Cover>
     </Wrapper>
   );
 };
