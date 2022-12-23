@@ -67,7 +67,7 @@ const Footer = () => {
       <Cover>
         <Content>
           <First_Container>
-            <span>Made by: Musa Aqeel, Vincent Tran and Sibel Jahangirli</span>
+            <span>Made by: Musa MusaAqeel and Sibel Jahangirli</span>
             <ul>
               <li>
                 <Link href="/privacy" target="_blank">
