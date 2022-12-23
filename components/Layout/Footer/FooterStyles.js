@@ -18,7 +18,7 @@ export const DividerWrapper = styled.div`
   line-height: 0;
   margin: 0;
   padding: 0;
-  background-color: #20388B;
+  background-color: #f9f9f9;
 `;
 
 export const Shape = styled.svg`
@@ -33,7 +33,7 @@ export const Cover = styled.div`
   margin-top: -0.6%;
   margin-bottom: 0;
   padding: 2.5rem 2rem;
-  background-color: #171c28;
+  background-color: #20388B;
   font-size: 1.2rem;
   color: #ffffff;
 `;
