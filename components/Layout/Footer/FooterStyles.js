@@ -33,7 +33,7 @@ export const Cover = styled.div`
   margin-top: -0.6%;
   margin-bottom: 0;
   padding: 2.5rem 2rem;
-  background-color: #616060;
+  background-color: #20388B;
   font-size: 1.2rem;
   color: #ffffff;
 `;
