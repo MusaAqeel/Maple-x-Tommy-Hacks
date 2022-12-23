@@ -14,7 +14,7 @@ export const Title = styled.h2`
   line-height: 30px;
   align-items: center;
   margin-bottom: 0.53vh;
-  color: white;
+  color: #000;
 `;
 
 export const Paragraph = styled.p`
