@@ -13,15 +13,15 @@ const FAQ = (props) => {
   const manualCards = (
     <>
       <Card
-        title="I still have a question..."
+        title="Where do I submit my project?"
         paragraph={
           <span>
-            We’d be happy to help! Send the inquiry over to
-            <Link href="mailto:mxthacks@gmail.com">
+            You will be submitting your project on 
+            <Link href="https://maplehs-hacks2023.devpost.com/?ref_content=default&ref_feature=challenge&ref_medium=portfolio">
               {" "}
-              mxthacks@gmail.com
+              devpost
             </Link>{" "}
-            and we’ll get back to you as soon as possible.
+            !
           </span>
         }
       />
