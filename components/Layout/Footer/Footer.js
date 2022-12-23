@@ -28,21 +28,6 @@ const Footer = () => {
     "pointer",
   ]);
 
-  // const formSubmit = (e) => {
-  //   e.preventDefault();
-  //   const action = `https://script.google.com/macros/s/AKfycbwnuktDcCkwVEluIyidhI4KJeot4t_JrKuZYDOHqhJjNidodKZuSUqfzAwZl5Yrfqsj/exec?req=add&email=${email}`;
-  //   const body = { req: "add", email: email };
-  //   console.log(email);
-  //   fetch(action, {
-  //     method: "POST",
-  //     body: JSON.stringify(body),
-  //   })
-  //     .catch((err) => console.log(err))
-  //     .then((res) => {
-  //       console.log(res);
-  //       setSubmitStatus([true, "Signed Up!", "#45C26D", "#969696", "default"]);
-  //     });
-  // };
 
   return (
     <Wrapper>
@@ -66,11 +51,11 @@ const Footer = () => {
       </DividerWrapper>
       <Cover>
   <Content>
-    <First_Container>
-      <span>Made with ❤️ by Musa A. and Sibel J.</span>
-      <ul>
-        <li>
-          <a
+  <First_Container>
+  <span>Made with ❤️ by <a href="https://musaaqeel.tech" target="_blank" rel="noreferrer">Musa A.</a> and <a href="https://sibel.vercel.app" target="_blank" rel="noreferrer">Sibel J.</a></span>
+  <ul>
+    <li>
+      <a
             href="https://drive.google.com/file/d/1IhsuhrWrBa16f8MH2ow4MMwT9pJNBFpj/view?usp=sharing"
             target="_blank"
             rel="noreferrer"
