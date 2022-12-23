@@ -85,7 +85,7 @@ const Footer = () => {
               </li>
               <li>
                 <a
-                  href="https://drive.google.com/"
+                  href="https://drive.google.com/file/d/1IhsuhrWrBa16f8MH2ow4MMwT9pJNBFpj/view?usp=sharing"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -103,7 +103,7 @@ const Footer = () => {
               </li>
               <li>
                 <a
-                  href="https://github.com/MusaAqeel"
+                  href="https://github.com/MusaAqeel/Maple-x-Tommy-Hacks"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -119,15 +119,7 @@ const Footer = () => {
             <Socials>
               <ul>
                 <li>
-                  <a
-                    href="https://www.instagram.com/tommyprogramming"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    <IconContainer>
-                      <InstagramIcon />
-                    </IconContainer>
-                  </a>
+
                 </li>
                 <li>
 
