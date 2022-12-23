@@ -21,7 +21,6 @@ const Parallax = styled.section`
 const Main = () => {
   return (
     <Parallax>
-      <Mountains />
       <Content />
       <Footer />
     </Parallax>
