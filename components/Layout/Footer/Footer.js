@@ -28,21 +28,21 @@ const Footer = () => {
     "pointer",
   ]);
 
-  const formSubmit = (e) => {
-    e.preventDefault();
-    const action = `https://script.google.com/macros/s/AKfycbwnuktDcCkwVEluIyidhI4KJeot4t_JrKuZYDOHqhJjNidodKZuSUqfzAwZl5Yrfqsj/exec?req=add&email=${email}`;
-    const body = { req: "add", email: email };
-    console.log(email);
-    fetch(action, {
-      method: "POST",
-      body: JSON.stringify(body),
-    })
-      .catch((err) => console.log(err))
-      .then((res) => {
-        console.log(res);
-        setSubmitStatus([true, "Signed Up!", "#45C26D", "#969696", "default"]);
-      });
-  };
+  // const formSubmit = (e) => {
+  //   e.preventDefault();
+  //   const action = `https://script.google.com/macros/s/AKfycbwnuktDcCkwVEluIyidhI4KJeot4t_JrKuZYDOHqhJjNidodKZuSUqfzAwZl5Yrfqsj/exec?req=add&email=${email}`;
+  //   const body = { req: "add", email: email };
+  //   console.log(email);
+  //   fetch(action, {
+  //     method: "POST",
+  //     body: JSON.stringify(body),
+  //   })
+  //     .catch((err) => console.log(err))
+  //     .then((res) => {
+  //       console.log(res);
+  //       setSubmitStatus([true, "Signed Up!", "#45C26D", "#969696", "default"]);
+  //     });
+  // };
 
   return (
     <Wrapper>
