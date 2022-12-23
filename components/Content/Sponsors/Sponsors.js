@@ -53,7 +53,7 @@ const Sponsors = () => {
               alt="Echo 3D"
               priority
             />
-          </GoldSponsor>
+            </GoldSponsor>
 
 
             <SilverSponsor
