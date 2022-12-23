@@ -18,6 +18,7 @@ import Echo3D from "/public/static/Sponsors/echo3d.png";
 
 import WolframLanguage from "/public/static/Sponsors/WolframLanguage.png";
 
+
 const Sponsors = () => {
   return (
     <Wrapper>
@@ -37,6 +38,20 @@ const Sponsors = () => {
                 layout="fill"
                 objectFit="contain"
                 alt="Replit"
+                priority
+              />
+            </GoldSponsor>
+
+            <GoldSponsor
+              href="https://echo3d.com/"
+              rel="noopener"
+              target="_blank"
+            >
+              <Image
+                src={Echo3D}
+                layout="fill"
+                objectFit="contain"
+                alt="Echo 3D"
                 priority
               />
             </GoldSponsor>
