@@ -130,7 +130,7 @@ const Home = () => {
           <link
             rel="icon"
             type="image/png"
-            sizes="40x32"
+            sizes="48x32"
             href="/favicon-32x32.png"
           />
           <link
