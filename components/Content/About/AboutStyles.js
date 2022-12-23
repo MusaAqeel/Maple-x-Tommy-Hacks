@@ -10,7 +10,7 @@ export const Wrapper = styled.section`
 // skyline color
 export const Cover = styled.article`
   padding-top: 60px;
-  background: #171c28;
+  background: #20388B;
   display: block;
   position: relative;
   top: 99%;
@@ -25,13 +25,13 @@ export const Link = styled.a`
   font-size: 1.02rem;
   line-height: 22px;
   text-decoration: none;
-
-  color: #B83236;
+  
+  color: #20388B;
   transition: color 0.2s;
 
   &:hover {
     transition: color 0.2s;
-    color: #20388B;
+    color: #B83236;
   }
 `;
 export const CityContainer = styled.div`
