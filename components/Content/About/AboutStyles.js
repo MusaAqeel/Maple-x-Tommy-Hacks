@@ -10,13 +10,13 @@ export const Wrapper = styled.section`
 // skyline color
 export const Cover = styled.article`
   padding-top: 60px;
-  background: linear-gradient(rgb(255, 255, 255) 0%, rgb(163, 161, 162) 100%);
+  background: #20388B;
   display: block;
   position: relative;
   top: 99%;
   min-height: 100vh;
   z-index: 3;
-  background: #616060;
+  background: linear-gradient(rgb(255, 255, 255) 0%, rgb(163, 161, 162) 100%);
     `;
 export const Link = styled.a`
   font-family: Proxima Nova;
