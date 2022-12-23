@@ -41,21 +41,6 @@ const Sponsors = () => {
               />
             </GoldSponsor>
 
-            <GoldSponsor
-            href="https://echo3d.com/"
-            rel="noopener"
-            target="_blank"
-          >
-            <Image
-              src={Echo3D}
-              layout="fill"
-              objectFit="contain"
-              alt="Echo 3D"
-              priority
-            />
-            </GoldSponsor>
-
-
             <SilverSponsor
               href="https://Titan.com/"
               rel="noopener"
