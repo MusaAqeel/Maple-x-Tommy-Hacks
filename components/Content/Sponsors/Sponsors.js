@@ -1,5 +1,6 @@
 import React from "react";
 import Divider from "../../Shared/Divider/Divider";
+import Divider2 from "../../Shared/Divider2/Divider2";
 import {
   Wrapper,
   Header,
@@ -19,6 +20,7 @@ import WolframLanguage from "/public/static/Sponsors/WolframLanguage.png";
 const Sponsors = () => {
   return (
     <Wrapper>
+      <Divider2 />
       <Divider />
       <div id="sponsors">
         <Header>Our sponsors</Header>

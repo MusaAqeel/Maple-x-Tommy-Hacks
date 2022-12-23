@@ -36,6 +36,9 @@ const About = () => {
           }
         />
 
+        <CityContainer>
+          <Image src={City} layout="responsive" priority alt="City Skyline" />
+        </CityContainer>
       </Cover>
     </Wrapper>
   );
