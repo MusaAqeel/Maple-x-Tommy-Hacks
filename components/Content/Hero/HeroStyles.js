@@ -68,7 +68,7 @@ export const ApplyBtn = styled.a`
   &:hover {
     transition: all 0.2s;
     cursor: pointer;
-    background-color: #242424;
+    background-color: #616060;
   }
 `;
 export const SponsorLink = styled.a`
