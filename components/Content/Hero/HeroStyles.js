@@ -27,7 +27,7 @@ export const Title = styled.h1`
   font-family: "Filson Pro";
   font-weight: normal !important;
   font-size: 3rem;
-  color: #242424;
+  color: #B83236;
   margin: 0;
   z-index: 4;
   text-align: center;
@@ -47,7 +47,7 @@ export const SubTitle = styled.p`
 export const Date = styled.p`
   font-family: "Proxima Nova";
   font-weight: normal !important;
-  color: #242424;
+  color: #B83236;
   font-size: 1.225rem;
   margin: 5px 0;
   z-index: 4;
