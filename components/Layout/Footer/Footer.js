@@ -116,7 +116,6 @@ const Footer = () => {
             </ul>
           </First_Container>
           <Second_Container>
-            <Socials>
               <ul>
                 <li>
 
@@ -128,7 +127,6 @@ const Footer = () => {
 
                 </li>
               </ul>
-            </Socials>
           </Second_Container>
           <Third_Container>
           
