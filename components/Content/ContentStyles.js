@@ -7,7 +7,7 @@ export const Wrapper = styled.main`
 `;
 
 export const Cover = styled.section`
-  background: #171c28;
+  background: #20388B;
   display: block;
   position: relative;
   top: 99%;
