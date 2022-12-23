@@ -155,7 +155,7 @@ const Home = () => {
           />
           <meta
             property="og:image"
-            content="https://i.ibb.co/dsNR4fB/meta-img.png"
+            content="https://i.ibb.co/RGXqTg2/meta-img.png"
           />
           <meta property="twitter:card" content="summary_large_image" />
           <meta property="twitter:url" content="https://dev.TommyXMapleHacks.com/" />
@@ -166,7 +166,7 @@ const Home = () => {
           />
           <meta
             property="twitter:image"
-            content="https://i.ibb.co/dsNR4fB/meta-img.png"
+            content="https://i.ibb.co/RGXqTg2/meta-img.png"
           />
         </Head>
         <Mountains />
