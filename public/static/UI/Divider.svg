@@ -1,3 +1,7 @@
-<svg width="1920" height="155" viewBox="0 0 1920 155" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M0 0H1920V89.3302C1920 89.3302 1717.5 154.519 1405 154.519C1092.5 154.519 878.455 89.3302 520 89.3302C161.545 89.3302 0 155 0 155V0Z" fill="#171C28"/>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 155" width="1920" height="155">
+	<title>Divider copy-svg</title>
+	<style>
+		.s0 { fill: #20388b } 
+	</style>
+	<path id="Layer" class="s0" d="m0 0h1920v89.3c0 0-202.5 65.2-515 65.2-312.5 0-526.5-65.2-885-65.2-358.5 0-520 65.7-520 65.7z"/>
 </svg>
