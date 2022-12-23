@@ -28,7 +28,7 @@ export const Header = styled.h2`
   padding-top: 60px;
   font-family: "Filson Pro";
   font-weight: normal;
-  color: #242424;
+  color: #B83236;
   text-align: center;
   font-size: 3rem;
   margin-top: 0;
@@ -37,13 +37,13 @@ export const Header = styled.h2`
 export const Link = styled.a`
   font-family: "Proxima Nova";
   font-weight: bold !important;
-  color: #3973b1;
+  color: #20388B;
   -webkit-text-decoration: none;
   text-decoration: none;
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
 
   &:hover {
-    color: #2d65a0;
+    color: #B83236;
   }
 `;
