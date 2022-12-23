@@ -1,6 +1,6 @@
 import React from "react";
 import Divider from "../../Shared/Divider/Divider";
-import Divider2 from "../../Shared/Divider2/Divider2";
+import Divider2 from "../../Shared/Divider/Divider2";
 import {
   Wrapper,
   Header,
