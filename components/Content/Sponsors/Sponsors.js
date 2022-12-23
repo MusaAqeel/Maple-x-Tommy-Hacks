@@ -40,7 +40,7 @@ const Sponsors = () => {
               />
             </GoldSponsor>
 
-            <GoldSponsor
+            <SilverSponsor
               href="https://Titan.com/"
               rel="noopener"
               target="_blank"
@@ -52,9 +52,9 @@ const Sponsors = () => {
                 alt="Titan"
                 priority
               />
-            </GoldSponsor>
+            </SilverSponsor>
 
-            <GoldSponsor
+            <SilverSponsor
               href="https://Maple.com/"
               rel="noopener"
               target="_blank"
@@ -66,7 +66,7 @@ const Sponsors = () => {
                 alt="Maple"
                 priority
               />
-            </GoldSponsor>
+            </SilverSponsor>
           </Tier>
         </SponsorGrid>
       </div>
