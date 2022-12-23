@@ -57,7 +57,7 @@ const Sponsors = () => {
             </GoldSponsor>
 
             <SilverSponsor
-              href="https://Titan.com/"
+              href="http://www.yrdsb.ca/schools/tommydouglas.ss/Pages/default.aspx"
               rel="noopener"
               target="_blank"
             >
@@ -71,7 +71,7 @@ const Sponsors = () => {
             </SilverSponsor>
 
             <SilverSponsor
-              href="https://Maple.com/"
+              href="http://www.yrdsb.ca/schools/maple.hs/Pages/default.aspx"
               rel="noopener"
               target="_blank"
             >
