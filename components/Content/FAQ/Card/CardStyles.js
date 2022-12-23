@@ -21,7 +21,7 @@ export const Wrapper = styled.article`
 export const Title = styled.h3`
   font-family: "Proxima Nova";
   font-weight: bold;
-  color: #4582c3;
+  color: #B83236;
   margin: 0 0 1rem 0;
   font-size: 1.3rem;
   @media (max-width: 600px) {
