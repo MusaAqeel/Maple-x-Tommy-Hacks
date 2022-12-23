@@ -67,7 +67,7 @@ const Footer = () => {
       <Cover>
   <Content>
     <First_Container>
-      <span>Made with ❤️ by Musa Aqeel and Sibel Jahangirli</span>
+      <span>Made with ❤️ by Musa A. and Sibel J.</span>
       <ul>
         <li>
           <a
