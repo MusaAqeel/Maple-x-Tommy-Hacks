@@ -144,29 +144,29 @@ const Home = () => {
           <meta name="title" content="Maple X Tommy Hacks" />
           <meta
             name="description"
-            content="Join 500+ hackers for a great weekend of learning, building, and networking at University of Toronto's largest annual hackathon 💻"
+            content="Maple X Tommy Hacks. A hackathon for high school students.💻"
           />
           <meta property="og:type" content="website" />
           <meta property="og:url" content="https://dev.TommyXMapleHacks.com/" />
           <meta property="og:title" content="Maple X Tommy Hacks " />
           <meta
             property="og:description"
-            content="Join 500+ hackers for a great weekend of learning, building, and networking at University of Toronto's largest annual hackathon 💻"
+            content="Maple X Tommy Hacks. A hackathon for high school students.💻"
           />
           <meta
             property="og:image"
-            content="https://i.ibb.co/0h5Mvzr/meta-img.png"
+            content="https://i.ibb.co/k3DCKrK/meta-img.png"
           />
           <meta property="twitter:card" content="summary_large_image" />
           <meta property="twitter:url" content="https://dev.TommyXMapleHacks.com/" />
           <meta property="twitter:title" content="Maple X Tommy Hacks " />
           <meta
             property="twitter:description"
-            content="Join 500+ hackers for a great weekend of learning, building, and networking at University of Toronto's largest annual hackathon 💻"
+            content="Maple X Tommy Hacks. A hackathon for high school students.💻"
           />
           <meta
             property="twitter:image"
-            content="https://i.ibb.co/0h5Mvzr/meta-img.png"
+            content="https://i.ibb.co/k3DCKrK/meta-img.png"
           />
         </Head>
         <Mountains />
