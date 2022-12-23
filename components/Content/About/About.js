@@ -30,7 +30,7 @@ const About = () => {
               Maple X Tommy Hacks even better. If you are interested in
               sponsoring for Maple X Tommy Hacks, please email us at{" "}
               <Link href="mailto:MapleXTommy@gmail.com">
-                MapleXTommy@gmail.com
+                MapleXTommy.Hacks@gmail.com
               </Link>
             </span>
           }

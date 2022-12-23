@@ -16,11 +16,7 @@ export const Cover = styled.article`
   top: 99%;
   min-height: 100vh;
   z-index: 3;
-  background: radial-gradient(
-    85.44% 78.29% at 50% 96.02%,
-    #404040 0%,
-    #404040 100%
-    );
+  background: #616060;
     `;
 export const Link = styled.a`
   font-family: Proxima Nova;
