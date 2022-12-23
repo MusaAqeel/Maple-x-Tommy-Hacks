@@ -13,7 +13,7 @@ const FAQ = (props) => {
   const manualCards = (
     <>
       <Card
-        title="Where do I submit my project?"
+        title="Where do I sign up and submit my project?"
         paragraph={
           <span>
             You will be submitting your project on 
