@@ -23,6 +23,6 @@ export const Paragraph = styled.p`
   font-weight: normal;
   font-size: 1.02rem;
   line-height: 22px;
-  color: #f1f1f1;
+  color: #000;
   z-index: 1;
 `;
