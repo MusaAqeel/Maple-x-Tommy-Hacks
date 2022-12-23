@@ -7,6 +7,7 @@ export const Wrapper = styled.article`
   min-height: 100vh;
   min-width: 100%;
   z-index: 4;
+  color: #FFFFFF;
 `;
 
 export const Content = styled.section`
