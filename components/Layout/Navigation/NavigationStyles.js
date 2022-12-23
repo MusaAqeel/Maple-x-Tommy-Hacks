@@ -25,14 +25,14 @@ export const LogoContainer = styled.div`
 export const NavItem = styled.a`
   display: block;
   font-family: "Proxima Nova";
-  color: #4582c3;
+  color: #616060;
   text-decoration: none;
   font-size: 1.2rem;
 
   &:hover {
     transition: all 0.2s;
     cursor: pointer;
-    color: #2d65a0;
+    color: #20388B;
   }
   @media only screen and (max-width: 860px) {
     display: none;
