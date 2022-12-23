@@ -33,7 +33,7 @@ export const Cover = styled.div`
   margin-top: -0.6%;
   margin-bottom: 0;
   padding: 2.5rem 2rem;
-  background-color: #20388B;
+  background-color: #616060;
   font-size: 1.2rem;
   color: #ffffff;
 `;
@@ -52,12 +52,12 @@ export const First_Container = styled.div`
   }
   & a {
     font-family: "Filson Pro";
-    color: #a0c3d2;
+    color: #B83236;
     text-decoration: none;
     font-size: 1rem;
   }
   & a:hover {
-    color: #d4d4d4;
+    color: #A3A1A2;
   }
   @media only screen and (max-width: 960px) {
     margin: auto;
