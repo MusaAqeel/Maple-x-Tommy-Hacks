@@ -47,7 +47,7 @@ export const SubTitle = styled.p`
 export const Date = styled.p`
   font-family: "Proxima Nova";
   font-weight: normal !important;
-  color: #B83236;
+  color: #616060;
   font-size: 1.225rem;
   margin: 5px 0;
   z-index: 4;
