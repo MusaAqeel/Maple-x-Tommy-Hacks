@@ -21,7 +21,7 @@ const FAQ = (props) => {
               {" "}
               devpost
             </Link>{" "}
-            !
+          !
           </span>
         }
       />

@@ -130,15 +130,7 @@ const Footer = () => {
                   </a>
                 </li>
                 <li>
-                  <a
-                    href="https://www.instagram.com/maplecsclub"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    <IconContainer>
-                      <InstagramIcon />
-                    </IconContainer>
-                  </a>
+
                 </li>
                 <li>
 
