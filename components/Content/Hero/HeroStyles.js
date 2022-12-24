@@ -13,6 +13,9 @@ const bounce = keyframes`
 `;
 
 export const Wrapper = styled.article`
+  display: flex;
+  justify-content: center;
+
   position: relative;
   display: block;
   flex: 1;
