@@ -30,6 +30,8 @@ export const Wrapper = styled.article`
   color: #FFFFFF;
 
   &::after {
+    display: flex;
+    justify-content: center;
     text-align: center;
     content-align: center;
     content: "⬇";
