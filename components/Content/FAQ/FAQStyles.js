@@ -34,7 +34,9 @@ export const Header = styled.h2`
   margin-top: 0;
 `;
 
-export const Link = styled.a`
+import styled from 'styled-components';
+
+export const Button = styled.button`
   font-family: "Proxima Nova";
   font-weight: bold !important;
   font-size: 1.3rem;
@@ -43,8 +45,15 @@ export const Link = styled.a`
   text-decoration: none;
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
+  background-color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
 
   &:hover {
     color: #B83236;
+    background-color: #B83236;
+    color: white;
   }
 `;
+
