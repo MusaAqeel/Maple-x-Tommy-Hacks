@@ -1,15 +1,6 @@
+import React from "react";
 import Logo from "../../Shared/Logo";
-import {
-  Wrapper,
-  Wrapper2,
-  Content,
-  LogoContainer,
-  Title,
-  SubTitle,
-  Date,
-  ApplyBtn,
-  SponsorLink,
-} from "./HeroStyles";
+import { Wrapper, Content, LogoContainer, Title, SubTitle, Date, ApplyBtn, SponsorLink } from "./HeroStyles";
 
 const Hero = () => {
   return (
@@ -34,7 +25,6 @@ const Hero = () => {
           {/* Join Now */}
         </SponsorLink>
       </Content>
-      <div>↓ Scroll Down ↓</div>
     </Wrapper>
   );
 };
