@@ -14,23 +14,20 @@ const bounce = keyframes`
 
 export const Wrapper = styled.article`
   position: relative;
-  display: flex;
+  display: block;
   flex: 1;
   flex-direction: column;
-  justify-content: center;
+  text-align: center;
+  justify-content: flex-start;
   align-items: center;
   margin: 0 auto;
+  margin-bottom: 475px;
   padding-top: 11.76vh;
   z-index: 4;
   color: #FFFFFF;
 
-  @media (max-width: 768px) {
-    display: block;
-    justify-content: center;
-    margin: 0 auto;
-  }
-
   &::after {
+    text-align: center;
     content: "⬇";
     display: flex;
     font-size: 2rem;
@@ -39,6 +36,7 @@ export const Wrapper = styled.article`
 `;
 
 export const Content = styled.section`
+  /* styles for Content component go here */
   position: relative;
   display: flex;
   flex: 1;
@@ -46,6 +44,7 @@ export const Content = styled.section`
   align-items: center;
   -webkit-box-align: center;
   z-index: 4;
+  
 `;
 
 export const LogoContainer = styled.div`
