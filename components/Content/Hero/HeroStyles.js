@@ -17,10 +17,11 @@ export const Wrapper = styled.article`
   display: block;
   flex: 1;
   flex-direction: column;
+  text-align: center;
   justify-content: flex-start;
   align-items: center;
   margin: 0 auto;
-  margin-bottom: 400px;
+  margin-bottom: 450px;
   padding-top: 11.76vh;
   z-index: 4;
   color: #FFFFFF;
