@@ -25,7 +25,9 @@ const Hero = () => {
           {/* Join Now */}
         </SponsorLink>
       </Content>
+
     </Wrapper>
+
   );
 };
 export default Hero;

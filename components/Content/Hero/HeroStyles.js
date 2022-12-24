@@ -1,4 +1,3 @@
-
 import styled, { keyframes } from "styled-components";
 
 const bounce = keyframes`
@@ -15,14 +14,12 @@ const bounce = keyframes`
 
 export const Wrapper = styled.article`
   position: relative;
-  display: flex;
+  display: block;
   flex: 1;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
   padding-top: 11.76vh;
-  min-height: 100vh;
-  min-width: 100%;
   z-index: 4;
   color: #FFFFFF;
 
@@ -33,6 +30,7 @@ export const Wrapper = styled.article`
     animation: ${bounce} 1s ease-in-out infinite;
   }
 `;
+
 
 export const Content = styled.section`
   /* styles for Content component go here */
