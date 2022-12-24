@@ -21,7 +21,7 @@ export const Wrapper = styled.article`
   justify-content: flex-start;
   align-items: center;
   margin: 0 auto;
-  margin-bottom: 450px;
+  margin-bottom: 475px;
   padding-top: 11.76vh;
   z-index: 4;
   color: #FFFFFF;
