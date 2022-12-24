@@ -144,14 +144,14 @@ const Home = () => {
           <meta name="title" content="Maple X Tommy Hacks" />
           <meta
             name="description"
-            content="Maple X Tommy Hacks. A hackathon for high school students.💻"
+            content="Maple X Tommy Hacks. A beginner friendly hackathon for high school students. 💻"
           />
           <meta property="og:type" content="website" />
           <meta property="og:url" content="https://dev.TommyXMapleHacks.com/" />
           <meta property="og:title" content="Maple X Tommy Hacks " />
           <meta
             property="og:description"
-            content="Maple X Tommy Hacks. A hackathon for high school students.💻"
+            content="Maple X Tommy Hacks. A beginner friendly hackathon for high school students. 💻"
           />
           <meta
             property="og:image"
@@ -162,14 +162,14 @@ const Home = () => {
           <meta property="twitter:title" content="Maple X Tommy Hacks " />
           <meta
             property="twitter:description"
-            content="Maple X Tommy Hacks. A hackathon for high school students.💻"
+            content="Maple X Tommy Hacks. A beginner friendly hackathon for high school students. 💻"
           />
           <meta
             property="twitter:image"
             content="https://i.ibb.co/RGXqTg2/meta-img.png"
           />
         </Head>
-        <Mountains />
+
         <Content />
         <Footer />
       </Parallax>
