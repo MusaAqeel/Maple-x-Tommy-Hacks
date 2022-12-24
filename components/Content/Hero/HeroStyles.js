@@ -20,6 +20,7 @@ export const Wrapper = styled.article`
   justify-content: flex-start;
   align-items: center;
   margin: 0 auto;
+  margin-bottom: 400px;
   padding-top: 11.76vh;
   z-index: 4;
   color: #FFFFFF;
@@ -33,6 +34,7 @@ export const Wrapper = styled.article`
 `;
 
 export const Content = styled.section`
+  /* styles for Content component go here */
   position: relative;
   display: flex;
   flex: 1;
@@ -40,14 +42,18 @@ export const Content = styled.section`
   align-items: center;
   -webkit-box-align: center;
   z-index: 4;
+  
 `;
 
 export const LogoContainer = styled.div`
+  /* styles for LogoContainer component go here */
   max-width: 36.56rem;
   z-index: 4;
+  
 `;
 
 export const Title = styled.h1`
+  /* styles for Title component go here */
   font-family: "Filson Pro";
   font-weight: normal !important;
   font-size: 3rem;
@@ -55,6 +61,8 @@ export const Title = styled.h1`
   margin: 0;
   z-index: 4;
   text-align: center;
+
+  
 `;
 
 export const Star = styled.span`
