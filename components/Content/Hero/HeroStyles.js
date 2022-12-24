@@ -93,3 +93,36 @@ export const MentorLink = styled(SponsorLink)`
   font-size: 0.8rem;
   color: #f573a0;
 `;
+
+const bounce = keyframes`
+  0%, 20%, 50%, 80%, 100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-10px);
+  }
+  60% {
+    transform: translateY(-5px);
+  }
+`;
+
+export const Wrapper2 = styled.article`
+  position: relative;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 11.76vh;
+  min-height: 100vh;
+  min-width: 100%;
+  z-index: 4;
+  color: #FFFFFF;
+
+  &::after {
+    content: "⬇";
+    display: flex;
+    font-size: 2rem;
+    animation: ${bounce} 1s ease-in-out infinite;
+  }
+`;

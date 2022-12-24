@@ -1,6 +1,7 @@
 import Logo from "../../Shared/Logo";
 import {
   Wrapper,
+  Wrapper2,
   Content,
   LogoContainer,
   Title,
@@ -33,9 +34,8 @@ const Hero = () => {
           {/* Join Now */}
         </SponsorLink>
       </Content>
+      <div>↓ Scroll Down ↓</div>
     </Wrapper>
-
-    
   );
 };
 export default Hero;
