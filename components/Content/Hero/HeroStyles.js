@@ -27,6 +27,7 @@ export const Wrapper = styled.article`
   color: #FFFFFF;
 
   &::after {
+    text-align: center;
     content: "⬇";
     display: flex;
     font-size: 2rem;
