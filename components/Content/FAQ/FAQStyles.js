@@ -40,7 +40,7 @@ export const Link = styled.a`
   font-size: 1.3rem;
   color: #20388B;
   -webkit-text-decoration: none;
-  // text-decoration: none;
+  text-decoration: none;
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
 
