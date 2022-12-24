@@ -19,7 +19,7 @@ const FAQ = (props) => {
             You will be submitting your project on 
             <Link href="https://maplehs-hacks2023.devpost.com/?ref_content=default&ref_feature=challenge&ref_medium=portfolio">
               {" "}
-              devpost! 
+            devpost! 
             </Link>{" "}
             Make sure to sign up before too.
           
