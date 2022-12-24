@@ -169,7 +169,6 @@ const Home = () => {
             content="https://i.ibb.co/RGXqTg2/meta-img.png"
           />
         </Head>
-
         <Content />
         <Footer />
       </Parallax>
