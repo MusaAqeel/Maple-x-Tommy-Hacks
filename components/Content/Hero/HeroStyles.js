@@ -19,6 +19,8 @@ export const Wrapper = styled.article`
   flex-direction: column;
   justify-content: flex-start;
   align-items: center;
+  margin: 0 auto;
+  margin-bottom: 50px;
   padding-top: 11.76vh;
   z-index: 4;
   color: #FFFFFF;
@@ -30,7 +32,6 @@ export const Wrapper = styled.article`
     animation: ${bounce} 1s ease-in-out infinite;
   }
 `;
-
 
 export const Content = styled.section`
   /* styles for Content component go here */
