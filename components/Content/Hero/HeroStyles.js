@@ -34,7 +34,8 @@ export const Wrapper = styled.article`
     justify-content: center;
     text-align: center;
     content-align: center;
-    content: "⬇ Scroll Down ⬇";
+    text-color: #000;
+    content: "⬇ Scroll ⬇";
     display: flex;
     font-size: 2rem;
     animation: ${bounce} 1s ease-in-out infinite;
