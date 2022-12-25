@@ -34,7 +34,7 @@ export const Wrapper = styled.article`
     justify-content: center;
     text-align: center;
     content-align: center;
-    text-color: #000;
+    content-color: #000;
     content: "⬇ Scroll ⬇";
     display: flex;
     font-size: 2rem;
