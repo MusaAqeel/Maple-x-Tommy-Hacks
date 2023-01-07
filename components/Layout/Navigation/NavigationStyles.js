@@ -35,6 +35,6 @@ export const NavItem = styled.a`
     color: #20388B;
   }
   @media only screen and (max-width: 860px) {
-
+    display: none;
   }
 `;

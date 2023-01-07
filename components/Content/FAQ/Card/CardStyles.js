@@ -7,7 +7,7 @@ export const Wrapper = styled.article`
   text-align: left;
   color: #000000;
   text-decoration: none;
-  border: 2px solid #eaeaea;
+  border: 4px solid #eaeaea;
   border-radius: 10px;
   height: 250px;
   width: 25rem;
