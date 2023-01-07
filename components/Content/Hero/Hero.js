@@ -13,7 +13,7 @@ const Hero = () => {
         <SubTitle>
           {/*  */}
         </SubTitle>
-        <Date>December 23rd 2022 - January 7th 2023</Date>
+        <Date>December 23rd 2022 - January 9th 2023</Date>
         <ApplyBtn
           href="#about"
           rel=""
